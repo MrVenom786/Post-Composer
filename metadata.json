@@ -1,0 +1,6 @@
+{
+  "name": "Post Composer",
+  "description": "Social media post composer with multi-platform real-time constraint validation and preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [""]
+}
